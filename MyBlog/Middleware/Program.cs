@@ -25,4 +25,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.UseMiddleware<LoggerMiddleware>();
+app.LoggingExtension();
 app.Run();
