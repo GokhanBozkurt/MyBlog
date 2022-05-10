@@ -1,0 +1,15 @@
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\bin\Debug\net6.0\DirectoryFileOperation.exe
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\bin\Debug\net6.0\DirectoryFileOperation.deps.json
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\bin\Debug\net6.0\DirectoryFileOperation.runtimeconfig.json
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\bin\Debug\net6.0\DirectoryFileOperation.dll
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\bin\Debug\net6.0\DirectoryFileOperation.pdb
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.csproj.AssemblyReference.cache
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.AssemblyInfoInputs.cache
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.AssemblyInfo.cs
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.csproj.CoreCompileInputs.cache
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.dll
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\refint\DirectoryFileOperation.dll
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.pdb
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\DirectoryFileOperation.genruntimeconfig.cache
+D:\GIT\Source\Repos\MyBlog\MyBlog\DirectoryFileOperation\obj\Debug\net6.0\ref\DirectoryFileOperation.dll
